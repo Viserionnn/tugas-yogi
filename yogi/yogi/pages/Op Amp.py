@@ -14,7 +14,7 @@ def calculate_op_amp():
 
 # Judul aplikasi
 st.title("Aplikasi Operasional Amplifier")
-
+st.images("in.PNG")
 
 # Input fields
 vin_input = st.number_input("Tegangan Masukan (Vin) (V):")
